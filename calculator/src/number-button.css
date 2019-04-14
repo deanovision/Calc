@@ -1,0 +1,22 @@
+.number-button {
+  width: 100px;
+  height: 100px;
+  font-size: 32px;
+  font-weight: bold;
+  background: white;
+}
+.zero {
+  width: 300px;
+  height: 100px;
+  font-size: 32px;
+  font-weight: bold;
+  background: white;
+}
+.operator {
+  width: 100px;
+  height: 100px;
+  font-size: 32px;
+  font-weight: bold;
+  background: crimson;
+  color: white;
+}
