@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83388410-c6b3-45df-91a0-b58e412b9c0b/deploy-status)](https://app.netlify.com/sites/loving-almeida-9bbe6c/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
